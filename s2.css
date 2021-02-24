@@ -96,4 +96,8 @@ img.rounded {
 }
 .contact{
     text-align: center;
+    display: block;
+}
+.cont{
+    text-align: center;
 }
